@@ -59,7 +59,7 @@ body{
 	cursor: pointer;
 }
 .number:active, .operator:active{
-	font-size: 13px;
+	font-size: 17px;
 }
 .number:focus, .operator:focus, .empty:focus{
 	outline: 0;
@@ -85,7 +85,7 @@ button:nth-child(20){
 	background-color: #9477af;
 }
 .number:hover{
-	background-color: snow;
+	background-color: #ffeded;
 }
 .operator:hover{
 	background-color: rgba(0,0,0,0.5);
